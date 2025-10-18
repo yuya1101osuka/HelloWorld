@@ -1,5 +1,5 @@
 # HelloWorld
-This is a test repository. (20251017)
+This is a test repository. (20251017)\
 Copyright (C) 2025 Yuya Osuka (GNU General Public License v3)
 
 ## About me
